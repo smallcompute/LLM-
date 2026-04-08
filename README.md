@@ -98,7 +98,6 @@ $env:DASHSCOPE_API_KEY="你的真实DASHSCOPE API Key"
 ```text
 你的真实DASHSCOPE API Key
 ```
-> ⚠️ 重要：`api_key.txt` 已被 `.gitignore` 忽略，**禁止提交到 GitHub**！
 
  🚀 运行方式
  9.1 基础聊天调用（验证底层客户端）
